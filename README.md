@@ -1,63 +1,102 @@
-![Header Banner](./banner.png)
+<!--
+Hi there 👋
+Welcome to my GitHub profile!
+-->
 
-# 👋 Hey, I'm Bang
-
-🚀 *Backend Developer | System Architect in Progress | Tech Visionary*  
-Crafting scalable and secure backend systems — turning logic into living software.
+<h1 align="center">Hey, I'm Bang 👋</h1>
+<h3 align="center">Aspiring Backend Developer | Future Fullstack Engineer</h3>
 
 ---
 
 ### 🧩 About Me
-- 🎓 Information Technology student  
-- 💡 Focused on *Backend Development, **System Architecture, and **Cybersecurity*  
-- 🧠 Passionate about *Clean Code, **Design Patterns, and **Microservice Thinking*  
-- ✨ Motto: “Build it right, or don’t build it at all.”
+I'm an Information Technology student who's currently learning the art of *Backend Development*.  
+I've explored the basics of *Java, **HTML, **CSS, and **MySQL (via Laragon)*.  
+Right now, I'm focused on mastering core backend concepts — from database logic to clean code architecture.
+
+> 💡 "Every great system starts with simple, well-understood fundamentals."
 
 ---
 
-### 🛠 Tech Arsenal
+### 🛠 Tech Stack (So Far)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+*Languages*
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+*Database*
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+*Tools*
+<br>
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?logo=laravel&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
 
 ---
 
-### 📈 Current Focus
-- Building *RESTful APIs* with Spring Boot  
-- Exploring *Microservices & Containerization*  
-- Designing *Scalable Data Flow* systems  
-- Learning *System Design & Distributed Architecture*
+### 🧭 Learning Roadmap
+
+📘 *Now*
+- Strengthening Java fundamentals (OOP, logic, file handling)
+- Practicing database design & CRUD operations with MySQL
+- Building small backend projects using Laragon
+
+🚀 *Next*
+- Learn *Spring Boot* & RESTful API development
+- Understand Git workflows & version control
+- Explore basic *system architecture & deployment*
+
+🌐 *Future*
+- Build fullstack web projects  
+- Contribute to open-source  
+- Master backend design patterns & clean architecture  
 
 ---
 
-### 🧱 Featured Projects
+### 🧱 Practice Projects
+
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🏦 *Banking System API* | Core banking backend with modular service design | Java, Spring Boot |
-| 🔒 *Auth Service* | Secure JWT authentication microservice | Node.js, Express |
-| 📊 *DataFlow Pipeline* | Automated ETL workflow for analytics | Python, Airflow |
+| 🧮 *Simple Calculator CLI* | Console app to practice Java logic and input/output | Java |
+| 💾 *Student CRUD App* | Basic database app with MySQL & Laragon | Java, MySQL |
+| 🌐 *Portfolio Layout* | Simple web layout practice | HTML, CSS |
+
+> 🧠 "I'm not chasing perfection — I'm building consistency."
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-![Bang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangdev&show_icons=true&theme=transparent&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bangdev&layout=compact&theme=transparent&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bangdev&theme=transparent&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bangdev&show_icons=true&theme=transparent&hide_border=true" alt="Bang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangdev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge)](https://your-portfolio.vercel.app)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yourname@gmail.com)
+<p align="center">
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-⭐ “Backend isn’t just code — it’s digital infrastructure for the future.”
+### ✨ Personal Quote
+
+> “I may still be learning, but every line of code brings me closer to mastery.”  
+> — Bang 🧠
+
+---
+
+### 🌀 Fun Fact
+> When I'm not coding, I’m probably debugging my own life 😅
+
+---
