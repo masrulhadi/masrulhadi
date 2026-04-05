@@ -3,7 +3,7 @@ Hi there 👋
 Welcome to my GitHub profile!
 -->
 
-<h1 align="center">Hey, I'm Bang 👋</h1>
+<h1 align="center">Hey, I'm Masrul Hadi 👋</h1>
 <h3 align="center">Aspiring Backend Developer | Future Fullstack Engineer</h3>
 
 ---
