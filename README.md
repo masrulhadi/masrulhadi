@@ -79,7 +79,7 @@ Right now, I'm focused on mastering core backend concepts — from database logi
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:yourname@gmail.com">
+  <a href="mailto:simasrolhadi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/your-link">
